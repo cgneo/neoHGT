@@ -9,7 +9,7 @@
 
 Updated in May 2023.
 
-To see the previous version neoHGT1, you may find it [here](https://www.github.com/cgneo/neoHGT).
+To see the previous version neoHGT1, you may find it [here](https://www.github.com/cgneo/neoHGT)](https://github.com/cgneo/neoHGT-v1).
 
 
 ## Table of Contents
